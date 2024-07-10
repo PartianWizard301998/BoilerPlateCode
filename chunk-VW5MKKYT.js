@@ -1,0 +1,1 @@
+import{$ as o,$a as r,Ra as i,Sa as a,bb as p}from"./chunk-UKGNGN7I.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-profile"]],standalone:!0,features:[p],decls:2,vars:0,template:function(n,f){n&1&&(i(0,"p"),r(1,"profile works!"),a())}});let t=e;return t})();export{c as default};
